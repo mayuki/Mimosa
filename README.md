@@ -50,3 +50,6 @@ Mimosa.settings = {
 
 ### Mimosa.colorize(text: string, mode: string): Promise<string>
 ### Mimosa.colorizeElement(target: HTMLElement): void
+
+## License
+MIT License
