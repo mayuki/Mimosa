@@ -1,7 +1,10 @@
 # Mimosa
 Syntax highlighter built with Monaco Editor (Visual Studio Code)
 
-## Usage
+## Demo
+http://mayuki.github.io/Mimosa/sample/mimosa-demo.html
+
+## Installation/Usage
 
 ### 1. extract or clone scripts and upload to web server.
 
