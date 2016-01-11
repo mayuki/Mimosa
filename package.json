@@ -1,0 +1,28 @@
+{
+  "name": "mimosa",
+  "version": "1.0.0",
+  "description": "Syntax highlighter built with Monaco Editor (Visual Studio Code)",
+  "main": "gulpfile.js",
+  "dependencies": {},
+  "devDependencies": {
+    "del": "^2.2.0",
+    "gulp": "^3.9.0",
+    "gulp-plumber": "^1.0.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.5.1",
+    "gulp-zip": "^3.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayuki/Mimosa.git"
+  },
+  "author": "Mayuki Sawatari",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mayuki/Mimosa/issues"
+  },
+  "homepage": "https://github.com/mayuki/Mimosa#readme"
+}
